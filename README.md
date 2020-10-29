@@ -1,2 +1,4 @@
 # hello---world
-Just other repository
+ This is my first project.
+ i am trying to learn it.
+
